@@ -1,0 +1,6 @@
+C:\Users\robert.bradley\source\repos\RPS\RPS\obj\Debug\RPS.csprojAssemblyReference.cache
+C:\Users\robert.bradley\source\repos\RPS\RPS\bin\Debug\RPS.exe.config
+C:\Users\robert.bradley\source\repos\RPS\RPS\bin\Debug\RPS.exe
+C:\Users\robert.bradley\source\repos\RPS\RPS\bin\Debug\RPS.pdb
+C:\Users\robert.bradley\source\repos\RPS\RPS\obj\Debug\RPS.exe
+C:\Users\robert.bradley\source\repos\RPS\RPS\obj\Debug\RPS.pdb
